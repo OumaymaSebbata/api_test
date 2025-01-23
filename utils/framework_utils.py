@@ -6,7 +6,7 @@ import requests
 
 class FrameworkUtils:
     @staticmethod
-    def fire_api_request(request_method=None,request_url=None,request_params=None,request_json=None,headers=None,expected_status_code=None):
+    def fire_api_request(request_method="POST",request_url=None,request_params=None,request_json=None,headers=None,expected_status_code=None):
 
         response = requests.request(request_method,request_url,params=request_params,headers=headers,json=request_json)
         print(response.json())

@@ -4,20 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d7fa198-c035-4ee8-97f0-8cc91a7af008" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/api_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/api_config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/endpoint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functionnal_api_test/functionnal_param.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functionnal_api_test/test_url.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/req_resp/requests/gorest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/common_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/framework_utils.py" afterDir="false" />
+    <list default="true" id="4d7fa198-c035-4ee8-97f0-8cc91a7af008" name="Changes" comment="second_commit">
+      <change beforePath="$PROJECT_DIR$/functionnal_api_test/test_url.py" beforeDir="false" afterPath="$PROJECT_DIR$/functionnal_api_test/test_url.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/req_resp/requests/gorest.py" beforeDir="false" afterPath="$PROJECT_DIR$/req_resp/requests/gorest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/framework_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/framework_utils.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +17,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;OumaymaSebbata&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/OumaymaSebbata/api_test.git&quot;,
+    &quot;accountId&quot;: &quot;ca713865-c4e6-47b3-a1fb-461ab2f9ba97&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -36,19 +38,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests for test_url.test_url.executor": "Run",
-    "Python tests.Python tests in test_url.py.executor": "Run",
-    "Python.api_config.executor": "Run",
-    "Python.framework_utils.executor": "Run",
-    "Python.functionnal_param.executor": "Run",
-    "Python.test_url.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/oumayma.sebbata/Downloads/python-pytest-request"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for test_url.test_url.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_url.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.api_config.executor&quot;: &quot;Run&quot;,
+    &quot;Python.framework_utils.executor&quot;: &quot;Run&quot;,
+    &quot;Python.functionnal_param.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_url.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/oumayma.sebbata/Downloads/api_test_framework&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python tests.Python tests for test_url.test_url">
     <configuration name="framework_utils" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="api_test" />
@@ -105,8 +107,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python tests.Python tests for test_url.test_url" />
-        <item itemvalue="Python.framework_utils" />
         <item itemvalue="Python tests.Python tests in test_url.py" />
+        <item itemvalue="Python.framework_utils" />
       </list>
     </recent_temporary>
   </component>
@@ -126,6 +128,31 @@
       <option name="presentableId" value="Default" />
       <updated>1737378234826</updated>
     </task>
+    <task id="LOCAL-00001" summary="first_commit">
+      <option name="closed" value="true" />
+      <created>1737552316489</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737552316489</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first_commit">
+      <option name="closed" value="true" />
+      <created>1737552884925</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1737552884925</updated>
+    </task>
+    <task id="LOCAL-00003" summary="second_commit">
+      <option name="closed" value="true" />
+      <created>1737552920849</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1737552920849</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -163,5 +190,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first_commit" />
+    <MESSAGE value="second_commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="second_commit" />
   </component>
 </project>

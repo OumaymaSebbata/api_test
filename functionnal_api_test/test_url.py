@@ -28,8 +28,12 @@ def test_url():
     # response = FrameworkUtils.fire_api_request(request_method='get', request_url=get_url,
     #                                           headers=header_body, expected_status_code=200)
     # print(response.json())
-    response=FrameworkUtils.fire_api_request(request_method="PATCH",request_url= get_url,headers=header_body,request_json=create_user,expected_status_code=200)
-    print(response.json())
+
+
+    response=FrameworkUtils.fire_api_request(request_method="POST",request_url= get_url,headers=header_body,request_json=create_user,expected_status_code=200)
+    print("Response Status Code:", response.status_code)
+    print("Response Headers:", response.headers)
+    print("Response Text:", response.text)  # Raw response body
 
 
 
