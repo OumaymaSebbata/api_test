@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d7fa198-c035-4ee8-97f0-8cc91a7af008" name="Changes" comment="second_commit">
-      <change beforePath="$PROJECT_DIR$/functionnal_api_test/test_url.py" beforeDir="false" afterPath="$PROJECT_DIR$/functionnal_api_test/test_url.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/req_resp/requests/gorest.py" beforeDir="false" afterPath="$PROJECT_DIR$/req_resp/requests/gorest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/framework_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/framework_utils.py" afterDir="false" />
-    </list>
+    <list default="true" id="4d7fa198-c035-4ee8-97f0-8cc91a7af008" name="Changes" comment="second_commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
